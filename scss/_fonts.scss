@@ -1,0 +1,10 @@
+// Custom Font 1
+@font-face {
+	font-family: 'Font_1';
+	src: url('fonts/Font_1.eot');
+	src: url('../fonts/Font_1.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Font_1.woff') format('woff'),
+		url('../fonts/Font_1.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

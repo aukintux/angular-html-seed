@@ -1,0 +1,1 @@
+// jQuery script for the application
