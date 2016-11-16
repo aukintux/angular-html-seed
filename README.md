@@ -12,10 +12,10 @@ If your project uses sass be sure to have it installed on your machine. If is no
 
 ## Built With
 
-* [Bootstrap](http://getbootstrap.com/) - "Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web."
-* [FontAwersome](http://fontawesome.io/) - "The iconic font and CSS toolkit"
-* [AngularJS](https://angularjs.org/) - "HTML enhanced for web apps!"
-* [jQuery] (https://jquery.com/) - "write less, do more"
+* [Bootstrap v3.3.7](http://getbootstrap.com/) - "Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web."
+* [FontAwesome v4.0.0](http://fontawesome.io/) - "The iconic font and CSS toolkit"
+* [AngularJS v1.4.5](https://angularjs.org/) - "HTML enhanced for web apps!"
+* [jQuery v3.1.1] (https://jquery.com/) - "write less, do more"
 
 All the previous technologies are imported into the project through CDN. This increaseases performance specially for mobile and greatly simplifies set up process. 
 

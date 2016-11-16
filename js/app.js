@@ -16,7 +16,8 @@ app.config(function($routeProvider) {
 
 });
 
+
 // page_1Controller
-app.controller('page_1Controller', function($scope) {
+app.controller('page1Controller', function($scope) {
    
 });
