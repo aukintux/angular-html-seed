@@ -1,6 +1,6 @@
-# Project Title
+# Multiple Page Angular Seed Project
 
-Seed project for basic HTML project and/or AngularJS application.
+Seed project for AngularJS application with routing using Bootstrap, FontAwersome and jQuery.
 
 ## Getting Started
 
