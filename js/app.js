@@ -1,5 +1,5 @@
 // Single page application
-var app = angular.module('receiptApp', ['ngRoute']);
+var app = angular.module('angularApp', ['ngRoute']);
 
 // configure our routes
 app.config(function($routeProvider) {
